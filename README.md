@@ -88,7 +88,7 @@ All code implementation, testing, and debugging were done manually by the author
 
 # Learning Outcomes
 
-Through these projects, the following concepts were strengthened:
+Through this project, the following concepts were strengthened:
 
 - Core C programming fundamentals
 - Memory management and pointers
@@ -101,7 +101,7 @@ Through these projects, the following concepts were strengthened:
 
 # License
 
-These projects were developed for educational purposes as part of the 42 curriculum.
+This project was developed for educational purposes as part of the 42 curriculum.
 
 ---
 
